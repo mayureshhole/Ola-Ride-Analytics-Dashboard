@@ -10,7 +10,7 @@ This Power BI dashboard provides insights into Ola ride trends, customer behavio
 ✅ **Revenue by Payment Method** – Identify top payment trends.  
 
 ## 📷 Dashboard Screenshots  
-![Dashboard ScreenShot](screenshots/Overall.png)
+![Dashboard ScreenShot](ScreenShot/Overall.PNG)
 
 
 ## 📂 Files Included  
